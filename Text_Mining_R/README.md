@@ -19,7 +19,7 @@ Step 5: Predictive modeling – Classification
 
 Step 6: Generate the word cloud (Just for Fun!!)<br/>
 
-Project Outcome <br/>
+## Project Outcome <br/>
 ![r](https://github.com/Moh-Nafi/text_analysis/assets/133475571/8dbe7541-c325-40bf-bb78-28d23ef10246)<br/>
 
 ### Here's what each of these numbers means:
