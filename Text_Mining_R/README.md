@@ -7,8 +7,14 @@ a predictive model that can classify whether the customer recommends the product
 
 ### Research Protocol
 Step 1: Import data and build a corpus for text mining
+
 Step 2: Clean and pre-process the text data
+
 Step 3: Generate the TF-IDF matrix of the documents
+
 Step 4: Reduce term dimensions by removing less frequent terms
+
 Step 5: Predictive modeling – Classification
+
 Step 6: Generate the word cloud (Just for Fun!!)
+
