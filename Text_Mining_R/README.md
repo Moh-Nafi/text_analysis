@@ -40,6 +40,6 @@ The confusion matrix allows us to calculate various performance metrics for the 
 
 --->Specificity: The proportion of true negative instances out of all actual negative instances (in this case, 0.96042 or 96.04%).
 
-#Word cloud
+# Word cloud (The most frequently used words in the reviews)
 
 ![Rplot](https://github.com/Moh-Nafi/text_analysis/assets/133475571/c6382c19-5227-4b4b-9d4f-6d73180b94a2)
