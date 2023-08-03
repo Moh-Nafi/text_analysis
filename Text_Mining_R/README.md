@@ -11,9 +11,7 @@ Step 1: Import data and build a corpus for text mining
 Step 2: Clean and pre-process the text data
 
 Step 3: Generate the TF-IDF matrix of the documents <br/>
-&nbsp;&nbsp;(Term Frequency TF(t,d): The number of times a term (word) t appears in each document d.
-&nbsp;&nbsp;&nbsp;IDF accounts for terms that appear frequently in all the documents.  
-&nbsp;&nbsp;&nbsp;TF-IDF matrix assess the importance of a term within a collection of documents.) 
+(Term Frequency TF(t,d): The number of times a term (word) t appears in each document d. IDF accounts for terms that appear frequently in all the documents. TF-IDF matrix assess the importance of a term within a collection of documents.) <br/>
 
 Step 4: Reduce term dimensions by removing less frequent terms
 
