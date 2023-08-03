@@ -1,4 +1,4 @@
-# Predicting Sentiment of the Customer Reviews
+# Predicting Sentiment of the Customer Reviews (Using R "tm" library)
 
 ### Data description
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. 
